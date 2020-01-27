@@ -1,4 +1,5 @@
 #!/usr/local/bin/tclsh
+tk scaling 2.0
 
 encoding system utf-8
 cd "[file dirname [info script]]/"
